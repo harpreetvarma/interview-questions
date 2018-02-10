@@ -1,0 +1,5 @@
+lazy evaluation
+RDD
+DStream
+Transformation & Action
+RDD vs Dataset vs Dataframe
